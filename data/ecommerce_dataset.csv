@@ -1,0 +1,11 @@
+order_id,customer_id,customer_name,city,product,category,quantity,price,order_date
+1,101,John Smith,London,Laptop,Electronics,1,900,2024-01-10
+2,102,Priya Patel,Manchester,Phone,Electronics,2,600,2024-02-11
+3,103,Rahul Kumar,Birmingham,Shoes,Fashion,1,120,2024-02-18
+4,104,Alice Brown,London,Tablet,Electronics,1,450,2024-03-05
+5,105,David Wilson,Liverpool,Tshirt,Fashion,3,40,2024-03-11
+6,106,Emily Davis,Leeds,Headphones,Electronics,2,150,2024-03-19
+7,107,Michael Scott,London,Shoes,Fashion,1,130,2024-04-03
+8,108,Sarah Taylor,Manchester,Laptop,Electronics,1,950,2024-04-10
+9,109,Daniel Moore,Bristol,Watch,Accessories,1,200,2024-04-18
+10,110,Olivia White,London,Phone,Electronics,1,650,2024-05-02
